@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amir
 - 👀 I’m interested in developing software that can help people.
-- 🌱 I’m currently learning backend (Express.js and mongoDB).
+- 🌱 I’m currently learning backend and more...
 - 💞️ I’m looking to collaborate on Rank Stocks (check out my repos) and any other interesting projects.
 - 📫 How to reach me: https://amirrezaazam.netlify.app/ 
 
